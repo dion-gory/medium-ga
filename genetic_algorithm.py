@@ -2,6 +2,7 @@ import random, math, os
 import matplotlib.pyplot as plt
 import imageio.v2 as imageio
 
+
 # ---------------------------
 # Generate 20 Cities (including the depot)
 # ---------------------------
